@@ -1,0 +1,212 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:2:1-35:12
+MERGED from [com.android.support:design:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0bd302b258dc55ca827d92d9e6bfca64/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/66c7ff5d03f51c5639bb5eba5d05d55f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/342e767497f68aba776fe07a7163b753/AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/e96ad1b5da3cce4d47201883e49d0629/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9d570dc90c2979bc171e632ae1151646/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0f4db9dc2a3ecd7a9e7b72dbff8d4154/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/0b437b732fa972a82cc047e0387d04a7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5f95f4fbade3d5c1dadd762799ccfbbf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/41d9da18add021482807b9edcfd661c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/a0015d248da7c8576d1ae83004902a88/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/eb0def7aafe6641b56ef29e79a2e8eb6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/4c54d3b2da0fab32048bfa2446c6e2fc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/28b06d381b81ed777d96b01c295dbf35/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d20e16aa1c507abbd65fcfef10b0c03b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e3b77c5a25a79c9815ef75522ccc32f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ba6347a8197857eeaa6d8b769c03821b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/cb7b3339e199fce71298bba452ca783f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/6a42975a7c3be016f4765fda5670445f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/dc671c782554c526fa74a8d7cbd4845f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8b23b975374f445c8c9d4e885e7df378/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/25af7696ab6112cddd011fdc9cc89de6/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/424d408766aaa99c6795fb05c80de107/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/f4124def0f5d3f920e96c2c5483f4252/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/7143a293971b4acfa6064383593d917e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/00e2a2c7ec0fa17601ebe1c55ac750d8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8efe7b098edd661bd6d181c4981e7497/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/537c9528f95ee3c3abc849c72183e141/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/831a04433a5f83f6c6982c76632cc6cb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/39da0f49717b70ff66152e2a39789f5e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/99aad7c054bf64af3dc6d08b50a9f467/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/73e8fcfc3cd76bc9329f5af7ddd0bfbc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/7132ddb2a3f2a9e1225f1fd790d24d4b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e9f1599f738657384465bd9f58c75863/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml
+		ADDED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml
+		ADDED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:8:22-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:9:22-64
+application
+ADDED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:12:5-33:19
+MERGED from [com.android.support:design:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0bd302b258dc55ca827d92d9e6bfca64/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0bd302b258dc55ca827d92d9e6bfca64/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/342e767497f68aba776fe07a7163b753/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/342e767497f68aba776fe07a7163b753/AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/e96ad1b5da3cce4d47201883e49d0629/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/e96ad1b5da3cce4d47201883e49d0629/AndroidManifest.xml:7:5-12:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8b23b975374f445c8c9d4e885e7df378/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8b23b975374f445c8c9d4e885e7df378/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/25af7696ab6112cddd011fdc9cc89de6/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/25af7696ab6112cddd011fdc9cc89de6/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8b23b975374f445c8c9d4e885e7df378/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:15:9-37
+	android:roundIcon
+		ADDED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:19:9-65
+activity#com.example.minimo2DSAMiguel.MainActivity
+ADDED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:20:9-87
+	android:name
+		ADDED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:20:19-75
+activity#com.example.minimo2DSAMiguel.UserActivity
+ADDED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:21:9-87
+	android:name
+		ADDED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:21:19-75
+activity#com.example.minimo2DSAMiguel.SplashActivity
+ADDED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:23:9-32:20
+	android:label
+		ADDED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:25:13-42
+	android:theme
+		ADDED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:26:13-69
+	android:name
+		ADDED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:24:13-71
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml:30:27-74
+uses-sdk
+INJECTED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml
+INJECTED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0bd302b258dc55ca827d92d9e6bfca64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0bd302b258dc55ca827d92d9e6bfca64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/66c7ff5d03f51c5639bb5eba5d05d55f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/66c7ff5d03f51c5639bb5eba5d05d55f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/342e767497f68aba776fe07a7163b753/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/342e767497f68aba776fe07a7163b753/AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/e96ad1b5da3cce4d47201883e49d0629/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/e96ad1b5da3cce4d47201883e49d0629/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9d570dc90c2979bc171e632ae1151646/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9d570dc90c2979bc171e632ae1151646/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0f4db9dc2a3ecd7a9e7b72dbff8d4154/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0f4db9dc2a3ecd7a9e7b72dbff8d4154/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/0b437b732fa972a82cc047e0387d04a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/0b437b732fa972a82cc047e0387d04a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5f95f4fbade3d5c1dadd762799ccfbbf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5f95f4fbade3d5c1dadd762799ccfbbf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/41d9da18add021482807b9edcfd661c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/41d9da18add021482807b9edcfd661c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/a0015d248da7c8576d1ae83004902a88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/a0015d248da7c8576d1ae83004902a88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/eb0def7aafe6641b56ef29e79a2e8eb6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/eb0def7aafe6641b56ef29e79a2e8eb6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/4c54d3b2da0fab32048bfa2446c6e2fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/4c54d3b2da0fab32048bfa2446c6e2fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/28b06d381b81ed777d96b01c295dbf35/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/28b06d381b81ed777d96b01c295dbf35/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d20e16aa1c507abbd65fcfef10b0c03b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d20e16aa1c507abbd65fcfef10b0c03b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e3b77c5a25a79c9815ef75522ccc32f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e3b77c5a25a79c9815ef75522ccc32f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ba6347a8197857eeaa6d8b769c03821b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ba6347a8197857eeaa6d8b769c03821b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/cb7b3339e199fce71298bba452ca783f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/cb7b3339e199fce71298bba452ca783f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/6a42975a7c3be016f4765fda5670445f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/6a42975a7c3be016f4765fda5670445f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/dc671c782554c526fa74a8d7cbd4845f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/dc671c782554c526fa74a8d7cbd4845f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8b23b975374f445c8c9d4e885e7df378/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8b23b975374f445c8c9d4e885e7df378/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/25af7696ab6112cddd011fdc9cc89de6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/25af7696ab6112cddd011fdc9cc89de6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/424d408766aaa99c6795fb05c80de107/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/424d408766aaa99c6795fb05c80de107/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/f4124def0f5d3f920e96c2c5483f4252/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/f4124def0f5d3f920e96c2c5483f4252/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/7143a293971b4acfa6064383593d917e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/7143a293971b4acfa6064383593d917e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/00e2a2c7ec0fa17601ebe1c55ac750d8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/00e2a2c7ec0fa17601ebe1c55ac750d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8efe7b098edd661bd6d181c4981e7497/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8efe7b098edd661bd6d181c4981e7497/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/537c9528f95ee3c3abc849c72183e141/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/537c9528f95ee3c3abc849c72183e141/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/831a04433a5f83f6c6982c76632cc6cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/831a04433a5f83f6c6982c76632cc6cb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/39da0f49717b70ff66152e2a39789f5e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/39da0f49717b70ff66152e2a39789f5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/99aad7c054bf64af3dc6d08b50a9f467/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/99aad7c054bf64af3dc6d08b50a9f467/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/73e8fcfc3cd76bc9329f5af7ddd0bfbc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/73e8fcfc3cd76bc9329f5af7ddd0bfbc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/7132ddb2a3f2a9e1225f1fd790d24d4b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/7132ddb2a3f2a9e1225f1fd790d24d4b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e9f1599f738657384465bd9f58c75863/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e9f1599f738657384465bd9f58c75863/AndroidManifest.xml:20:5-44
+INJECTED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml
+INJECTED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml
+		ADDED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml
+		ADDED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/src/main/AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/e96ad1b5da3cce4d47201883e49d0629/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/e96ad1b5da3cce4d47201883e49d0629/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/e96ad1b5da3cce4d47201883e49d0629/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/miguelrincon/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/e96ad1b5da3cce4d47201883e49d0629/AndroidManifest.xml:9:13-64

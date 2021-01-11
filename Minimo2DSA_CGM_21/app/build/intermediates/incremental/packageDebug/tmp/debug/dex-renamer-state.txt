@@ -1,0 +1,7 @@
+#Mon Jan 11 13:47:59 CET 2021
+base.0=/Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/build/intermediates/dex/debug/mergeExtDexDebug/out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/miguelrincon/Desktop/CARLOS/Minimo2DSA_CGM_21/app/build/intermediates/dex/debug/mergeProjectDexDebug/out
